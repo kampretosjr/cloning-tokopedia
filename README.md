@@ -22,4 +22,4 @@ this website cloning from https://www.tokopedia.com
 4. Or check from our netlify https://clone-tokopedia.netlify.com/
 
 ### things that i have made
-![alt text](https://raw.githubusercontent.com/kampretpsjr/cloning-tokopedia/master/image/footer.png)
+![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer.png)
