@@ -20,3 +20,6 @@ this website cloning from https://www.tokopedia.com
    $ npm start
    ```
 4. Or check from our netlify https://clone-tokopedia.netlify.com/
+
+### things that i have made
+![alt text](https://raw.githubusercontent.com/kampretpsjr/cloning-tokopedia/master/image/footer.png)
