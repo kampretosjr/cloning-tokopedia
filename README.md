@@ -23,15 +23,18 @@ this website cloning from https://www.tokopedia.com
 
 ### things that i have made
       'footer'
-      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer.png)
+![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer.png)
 
       'footer detail'
-      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer%20detail.png)
-      'modal loging'
-      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/modal%20log.png)
+![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer%20detail.png)
+
+      'modal loging'      
+![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/modal%20log.png)
+
       'tabhome'
-      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tab%20home.png)
+![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tab%20home.png)
+
       'tab detail'
-      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tb%20detail.png)
+![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tb%20detail.png)
 
 
