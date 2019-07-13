@@ -22,15 +22,16 @@ this website cloning from https://www.tokopedia.com
 4. Or check from our netlify https://clone-tokopedia.netlify.com/
 
 ### things that i have made
-'footer'
-![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer.png)
-'footer detail'
-![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer%20detail.png)
-'modal loging'
-![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/modal%20log.png)
-'tabhome'
-![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tab%20home.png)
-'tab detail'
-![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tb%20detail.png)
+      'footer'
+      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer.png)
+
+      'footer detail'
+      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/footer%20detail.png)
+      'modal loging'
+      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/modal%20log.png)
+      'tabhome'
+      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tab%20home.png)
+      'tab detail'
+      ![alt text](https://raw.githubusercontent.com/kampretosjr/cloning-tokopedia/master/image/tb%20detail.png)
 
 
